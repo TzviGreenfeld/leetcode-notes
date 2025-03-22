@@ -4,22 +4,24 @@
 
 ### The Opening
 
-* Brute force. Make sure it's correct with edge cases.
-* Calculate time and space complexity.
+- Brute force. Make sure it's correct with edge cases.
+- Calculate time and space complexity.
 
 ### The Midgame
 
-* Discuss trade-offs, think about [best conceivable runtime](TODO:)
-* Use your own good example to test your ideas
-* Ask again about constraints
-* It is ok to ask for a hint
+- Discuss trade-offs, think about [best conceivable runtime](TODO:)
+- Use your own good example to test your ideas
+- Ask again about constraints
+- It is ok to ask for a hint
 
 ### The Endgame
 
-* Finalize the approach and carefully implement.
-* **VERIFY IT**
+- Finalize the approach and carefully implement.
+- **VERIFY IT**
   
-## Step By Step (Cracking The Coding Interview)
+## Step By Step
+
+### Cracking The Coding Interview
 
 1. _**Listen**_: Pay attention to unique info ("sorted", "repeatedly")
 2. _**Draw an example**_:
