@@ -49,7 +49,3 @@
 6. Hash
 7. Think about best conceivable runtime (BCR) (TODO: what do I mean by "BCR && O(1) space -> improve"?)
 
-### When can we solve with sliding window or 2 pointers
-
-1. If a window is a valid solution, any sub-window is a valid solution
-2. If a window is an invalid solution, every containing window is an invalid solution
