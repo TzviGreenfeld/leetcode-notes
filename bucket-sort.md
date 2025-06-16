@@ -7,6 +7,7 @@ Bucket sort is a sorting technique that involves dividing elements into various 
 ## Algorithm Steps
 
 Create n empty buckets and for every element in the array:
+
 1. Insert into bucket
 2. Sort individual bucket
 3. Concatenate all sorted buckets
